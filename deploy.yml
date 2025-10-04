@@ -27,3 +27,6 @@ jobs:
 
       - name: Run Tests
         run: npm test
+git add .github/workflows/ci.yml
+git commit -m "Add CI workflow"
+git push
